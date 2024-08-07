@@ -1,39 +1,46 @@
-メモ置き場になりそう
+# Yuya Masumura
 
-## Welcome to GitHub Pages
+**Mobile Phone Number**: +81-90-2375-7719
 
-You can use the [editor on GitHub](https://github.com/hal0taso/hal0taso.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Email**: masumura.yuya@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Summary
 
-### Markdown
+Data Scientist specializing in optimization and supply chain management with a proven track record of designing, developing, and maintaining optimization models that generate significant business profits. Expertise in maintaining optimization systems and delivering impactful　solutions. Eager to leverage my skills to drive customer success and business growth at a leading mathematical optimization software company.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Work Experience
 
-```markdown
-Syntax highlighted code block
+**Mar. 2020 — Current:** Data Scientist of Fast Retailing Co., Ltd.
 
-# Header 1
-## Header 2
-### Header 3
+**Apr 2019 — Mar. 2020:** Research Assistant of “Structured Learning Team” in RIKEN Center for Advanced Intelligence Project
 
-- Bulleted
-- List
+**Apr. 2018 — Mar. 2019:** Assistant Technical Staff of Division of Physics and Astronomy, Graduate School of Science, Kyoto University
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Education
 
-[Link](url) and ![Image](src)
-```
+**Mar. 2020:** Master of Information Science from Department of Information and Physical Sciences, Graduate School of Information Science and Technology, Osaka University, Japan
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Mar. 2018:** Bachelor of Engineering from Division of Applied Science, Faculty of Engineering, Osaka University, Japan
 
-### Jekyll Themes
+**Mar. 2014:** Graduation from Koshi High School, Japan
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hal0taso/hal0taso.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Publications
 
-### Support or Contact
+**Refereed Journal Articles**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Yuya Masumura, Taihei Oki, Yutaro Yamaguchi: **Dynamic Programming Approach to the Generalized Minimum Manhattan Network Problem**. *Algorithmica*, **83** (2021), pp. 3681–3714.
+
+**Refereed Conference Proceedings**
+
+- Yuya Masumura, Taihei Oki, Yutaro Yamaguchi: **Dynamic Programming Approach to the Generalized Minimum Manhattan Network Problem**. *Proceedings of the 6th International Symposium on Combinatorial Optimization* (*ISCO 2020*), pp. 237–248.
+
+**Preprints**
+
+- [Qulacs: a fast and versatile quantum circuit simulator for research purpose.](https://arxiv.org/abs/2011.13524)
+
+## Awards
+
+- **Student Thesis Award**, The Operations Research Society of Japan, Aug. 2020
+- **Presentation Award**, Workshop on Optimization and its Applications, the Operations Research Society of Japan, June 2019
+- **Student Presentation Award,** The 62nd Annual Conference of the Institute of Systems, Control and Information Engineers, the Institute of Systems, Control and Information engineers, May 2018
