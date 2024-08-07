@@ -4,10 +4,6 @@
 
 **Email**: masumura.yuya@gmail.com
 
-## Summary
-
-Data Scientist specializing in optimization and supply chain management with a proven track record of designing, developing, and maintaining optimization models that generate significant business profits. Expertise in maintaining optimization systems and delivering impactful　solutions. Eager to leverage my skills to drive customer success and business growth at a leading mathematical optimization software company.
-
 ## Work Experience
 
 **Mar. 2020 — Current:** Data Scientist of Fast Retailing Co., Ltd.
