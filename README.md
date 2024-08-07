@@ -1,9 +1,5 @@
 # Yuya Masumura
 
-**Mobile Phone Number**: +81-90-2375-7719
-
-**Email**: masumura.yuya@gmail.com
-
 ## Work Experience
 
 **Mar. 2020 — Current:** Data Scientist of Fast Retailing Co., Ltd.
